@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dialog Demo</string>
+    <string name="demo1">Demo 1- Simple Dialog</string>
+    <string name="Part2">Demo 2 Buttons Dialog</string>
+    <string name="Text">Enter Some Text</string>
+    <string name="Part3">Part3</string>
+    <string name="Part4">Demo 4 Calender Dialog</string>
+    <string name="Part5">Demo 5 Time Dialog</string>
+</resources>
